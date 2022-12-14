@@ -1,3 +1,3 @@
 # Final-project
-![contents](pengcc.pdf)
+![contents](https://github.com/PearsonChen123/Final-project/.pengcc.pdf)
 
